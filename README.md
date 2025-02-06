@@ -12,6 +12,7 @@ Made with ![Love](https://cloud.githubusercontent.com/assets/4301109/16754758/82
 ### Support mobsfscan
 
 [![Donate to MobSF](https://user-images.githubusercontent.com/4301109/117404264-7aab5480-aebe-11eb-9cbd-da82d7346bb3.png)](https://opensecurity.in/donate)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faakashaccorian%2Fmob_sbomb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faakashaccorian%2Fmob_sbomb?ref=badge_shield)
 
 If you liked mobsfscan and find it useful, please consider donating.
 
@@ -353,3 +354,7 @@ docker run -v /path-to-source-dir:/src opensecurity/mobsfscan /src
 docker build -t mobsfscan .
 docker run -v /path-to-source-dir:/src mobsfscan /src
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faakashaccorian%2Fmob_sbomb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faakashaccorian%2Fmob_sbomb?ref=badge_large)
